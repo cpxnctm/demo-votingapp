@@ -15,6 +15,7 @@ spec:
       name: votingapp-result
       app: demo-votingapp
       labels:
+        name: votingapp-result
         app: demo-votingapp
     spec:
       containers:

@@ -15,6 +15,7 @@ spec:
     metadata:
       name: votingapp-worker
       labels:
+        name: votingapp-worker
         app: demo-votingapp
     spec:
       containers:
