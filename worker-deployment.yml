@@ -21,5 +21,4 @@ spec:
       containers:
         - name: votingapp-worker
           image: dockersamples/examplevotingapp_worker
-          ports:
-            - containerPort: 80
+          
