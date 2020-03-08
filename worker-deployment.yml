@@ -20,5 +20,4 @@ spec:
     spec:
       containers:
         - name: votingapp-worker
-          image: dockersamples/examplevotingapp_worker
-          
+          image: tadamo/examplevotingapp_worker
