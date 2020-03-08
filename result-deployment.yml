@@ -13,7 +13,6 @@ spec:
   template:
     metadata:
       name: votingapp-result
-      app: demo-votingapp
       labels:
         name: votingapp-result
         app: demo-votingapp
