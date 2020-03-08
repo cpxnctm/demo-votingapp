@@ -13,9 +13,8 @@ spec:
   template:
     metadata:
       name: votingapp-pod
-      app: demo-votingapp
       labels:
-        name: votingapp-pod
+        name: votingapp-pod 
         app: demo-votingapp
     spec:
       containers:
