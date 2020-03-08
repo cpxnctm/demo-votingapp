@@ -14,6 +14,7 @@ spec:
     metadata:
       name: postgres-pod
       labels:
+        name: postgres-pod
         app: demo-votingapp
     spec:
       containers:
